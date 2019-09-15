@@ -1,6 +1,6 @@
 # starter web project 
 
-## intrediction
+## introduction
 
 ## purpose
 
