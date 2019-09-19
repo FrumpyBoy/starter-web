@@ -1,14 +1,14 @@
 # starter web project 
 
-this is a simple website project fot showing how to use Git and Github together. adding a line for rebasing example, then more changes from myfeature branch too. update for emergency fix after stashing.
+this is a simple website project for showing how to use Git and Github together. adding a line for rebasing example, then more changes from myfeature branch too. update for emergency fix after stashing.
 
 ## introduction
 
-this si example is to show different parts of the Git repository and various commands using a web project.
+this example is to show different parts of the Git repository and various commands using a web project.
 
 ## purpose
 
-as stated above, the main purpose is to provide simple examples fot Git training demos.
+as stated above, the main purpose is to provide simple examples for Git training demos.
 
 ## deployment
 
